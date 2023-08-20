@@ -1,4 +1,5 @@
 ![Screenshot (382)](https://github.com/sunphoenix1707/react_typescript/assets/114605699/d0e7579a-a96d-4fd9-b57d-5444398a91e8
+![Screenshot (383)](https://github.com/sunphoenix1707/react_typescript/assets/114605699/bcb599df-3726-4e78-9755-c17893c0d7cf)
 
 # React + TypeScript + Vite
 
